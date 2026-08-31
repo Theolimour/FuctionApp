@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+  <Order id="1001">
+    <Customer>Alice Smith</Customer>
+    <Status>Confirmed</Status>
+    <Total currency="USD">125.50</Total>
+    <Lines>
+      <Line>
+        <Sku>WID-001</Sku>
+        <Quantity>2</Quantity>
+      </Line>
+      <Line>
+        <Sku>GAD-014</Sku>
+        <Quantity>1</Quantity>
+      </Line>
+    </Lines>
+  </Order>
+  <Order id="1002">
+    <Customer>Bob Jones</Customer>
+    <Status>Pending</Status>
+    <Total currency="EUR">89.00</Total>
+    <Lines>
+      <Line>
+        <Sku>WID-002</Sku>
+        <Quantity>4</Quantity>
+      </Line>
+    </Lines>
+  </Order>
+  <Order id="1003">
+    <Customer>Carol Lee</Customer>
+    <Status>Shipped</Status>
+    <Total currency="USD">42.15</Total>
+    <Lines>
+      <Line>
+        <Sku>ACC-009</Sku>
+        <Quantity>3</Quantity>
+      </Line>
+    </Lines>
+  </Order>
+</Orders>
