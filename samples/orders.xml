@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Orders>
   <Order id="1001">
-    <Customer>Alice Smith</Customer>
+    <Customer>Katlego Mdluli</Customer>
     <Status>Confirmed</Status>
-    <Total currency="USD">125.50</Total>
+    <Total currency="ZAR">125.50</Total>
     <Lines>
       <Line>
         <Sku>WID-001</Sku>
@@ -16,9 +16,9 @@
     </Lines>
   </Order>
   <Order id="1002">
-    <Customer>Bob Jones</Customer>
+    <Customer>Tshepang Sefako</Customer>
     <Status>Pending</Status>
-    <Total currency="EUR">89.00</Total>
+    <Total currency="ZAR">89.00</Total>
     <Lines>
       <Line>
         <Sku>WID-002</Sku>
@@ -27,9 +27,9 @@
     </Lines>
   </Order>
   <Order id="1003">
-    <Customer>Carol Lee</Customer>
+    <Customer>Motheo Malope</Customer>
     <Status>Shipped</Status>
-    <Total currency="USD">42.15</Total>
+    <Total currency="ZAR">42.15</Total>
     <Lines>
       <Line>
         <Sku>ACC-009</Sku>
